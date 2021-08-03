@@ -1,0 +1,18 @@
+{
+    "name": "cefet-web-geiser",
+    "version": "1.0.0",
+    "main": "index.js",
+    "repository": "git@github.com:luckened/cefet-web-geiser.git",
+    "author": "luckened <luccafmsilva@gmail.com>",
+    "license": "MIT",
+    "type": "module",
+    "scripts": {
+        "dev": "node server/app.js"
+    },
+    "dependencies": {
+        "express": "^4.17.1"
+    },
+    "devDependencies": {
+        "hbs": "^4.1.2"
+    }
+}
